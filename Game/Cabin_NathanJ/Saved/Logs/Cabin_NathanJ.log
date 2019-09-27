@@ -1990,3 +1990,220 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.09.27-00.39.26:109][424]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
 [2019.09.27-00.39.27:073][424]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Saved/CabinLevelDBB976264102AAE26E1A7697BDC56EC5.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Content/Maps/CabinLevel.umap'
 [2019.09.27-00.39.27:122][424]LogFileHelpers: Saving map 'CabinLevel' took 1.052
+[2019.09.27-00.41.26:162][262]Cmd: TRANSACTION UNDO
+[2019.09.27-00.41.26:163][262]LogEditorTransaction: Undo Move Actors
+[2019.09.27-00.42.03:929][946]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-00.42.04:071][952]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Textures/DecalBottom0008_1_masked_S.DecalBottom0008_1_masked_S
+[2019.09.27-00.42.10:033][209]LogTexture: Display: Building textures: DecalBottom0008_1_masked_S (AutoDXT, 1024X1024)
+[2019.09.27-00.42.12:981][331]LogTexture: Display: Building textures: DecalBottom0008_1_masked_S (AutoDXT, 1024X1024)
+[2019.09.27-00.42.16:532][481]LogTexture: Display: Building textures: DecalBottom0008_1_masked_S (AutoDXT, 1024X1024)
+[2019.09.27-00.42.22:026][720]LogTexture: Display: Building textures: DecalBottom0008_1_masked_S (AutoDXT, 1024X1024)
+[2019.09.27-00.42.27:934][979]LogTexture: Display: Building textures: DecalBottom0008_1_masked_S (AutoDXT, 1024X1024)
+[2019.09.27-00.42.38:687][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/DecalBottom0008_1_masked_S" FILE="C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Content/Textures/DecalBottom0008_1_masked_S.uasset" SILENT=true
+[2019.09.27-00.42.38:728][446]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Saved/DecalBottom0008_1_masked_SBC9337C0412A475E871530BC2BD2C33D.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Content/Textures/DecalBottom0008_1_masked_S.uasset'
+[2019.09.27-00.42.39:587][481]LogSlate: Window 'DecalBottom0008_1_masked_S' being destroyed
+[2019.09.27-00.42.47:585][818]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/Decal_BottomDirt.Decal_BottomDirt
+[2019.09.27-00.42.47:598][818]LogMaterial: Display: Missing cached shader map for material Decal_BottomDirt, compiling. 
+[2019.09.27-00.42.47:790][818]LogMaterial: Display: Missing cached shader map for material Decal_BottomDirt, compiling. 
+[2019.09.27-00.42.47:827][818]LogMaterial: Display: Missing cached shader map for material Decal_BottomDirt, compiling. 
+[2019.09.27-00.42.47:863][818]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.27-00.42.47:893][818]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.09.27-00.42.49:016][858]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.27-00.42.49:378][874]LogMaterialEditor: Saving and Compiling material Decal_BottomDirt
+[2019.09.27-00.42.49:396][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Decal_BottomDirt" FILE="C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Content/Materials/Decal_BottomDirt.uasset" SILENT=true
+[2019.09.27-00.42.49:421][874]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Saved/Decal_BottomDirtBC2C76014A1608B0C4C18FA001ED82A4.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Content/Materials/Decal_BottomDirt.uasset'
+[2019.09.27-00.42.52:084][975]LogSlate: Window 'Decal_BottomDirt' being destroyed
+[2019.09.27-00.42.55:579][102]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.27-00.43.22:887][430]Cmd: SELECT NONE
+[2019.09.27-00.43.32:562][983]LogEditorViewport: Clicking on Actor (LMB): DecalActor (DecalActor)
+[2019.09.27-00.43.33:436][ 25]LogEditorViewport: Clicking on Actor (CTRL LMB): DecalActor (DecalActor2)
+[2019.09.27-00.43.34:346][ 68]LogEditorViewport: Clicking on Actor (CTRL LMB): DecalActor (DecalActor3)
+[2019.09.27-00.43.51:156][907]Cmd: TRANSACTION UNDO
+[2019.09.27-00.43.51:156][907]LogEditorTransaction: Undo Move Actors
+[2019.09.27-00.44.04:384][539]LogEditorViewport: Clicking on Actor (LMB): DecalActor (DecalActor5)
+[2019.09.27-00.44.05:373][583]LogEditorViewport: Clicking on Actor (CTRL LMB): Fire_beam_BP_C (Fire_beam_BP)
+[2019.09.27-00.44.06:705][649]LogEditorViewport: Clicking on Actor (LMB): Fire_beam_BP_C (Fire_beam_BP)
+[2019.09.27-00.44.07:608][689]LogEditorViewport: Clicking on Actor (LMB): Fire_beam_BP_C (Fire_beam_BP)
+[2019.09.27-00.44.08:439][730]LogEditorViewport: Clicking on Actor (LMB): Fire_beam_BP_C (Fire_beam_BP)
+[2019.09.27-00.44.09:258][769]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.09.27-00.44.10:108][809]LogEditorViewport: Clicking on Actor (LMB): Fire_beam_BP_C (Fire_beam_BP)
+[2019.09.27-00.44.10:837][841]LogEditorViewport: Clicking on Actor (LMB): Fire_beam_BP_C (Fire_beam_BP)
+[2019.09.27-00.44.13:033][933]LogEditorViewport: Clicking on Actor (LMB): Fire_beam_BP_C (Fire_beam_BP)
+[2019.09.27-00.44.13:639][962]LogEditorViewport: Clicking on Actor (LMB): Fire_beam_BP_C (Fire_beam_BP)
+[2019.09.27-00.44.14:581][  5]LogEditorViewport: Clicking on Actor (LMB): Fire_beam_BP_C (Fire_beam_BP)
+[2019.09.27-00.44.16:572][ 87]LogEditorViewport: Clicking on Actor (LMB): Fire_beam_BP_C (Fire_beam_BP)
+[2019.09.27-00.44.19:381][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-00.44.49:096][663]Cmd: DELETE
+[2019.09.27-00.44.49:096][663]Cmd: ACTOR DELETE
+[2019.09.27-00.44.49:114][663]LogEditorActor: Deleted Actor: DecalActor
+[2019.09.27-00.44.49:114][663]LogEditorActor: Deleted Actor: DecalActor
+[2019.09.27-00.44.49:166][663]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2019.09.27-00.44.49:167][663]LogEditorActor: Deleted 2 Actors (0.070 secs)
+[2019.09.27-00.44.50:220][723]LogEditorViewport: Clicking on Actor (LMB): DecalActor (DecalActor6)
+[2019.09.27-00.44.51:563][790]Cmd: DELETE
+[2019.09.27-00.44.51:563][790]Cmd: ACTOR DELETE
+[2019.09.27-00.44.51:578][790]LogEditorActor: Deleted Actor: DecalActor
+[2019.09.27-00.44.51:610][790]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2019.09.27-00.44.51:611][790]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2019.09.27-00.44.56:788][ 66]LogEditorViewport: Clicking on Actor (LMB): DecalActor (DecalActor)
+[2019.09.27-00.46.01:526][191]Cmd: DELETE
+[2019.09.27-00.46.01:526][191]Cmd: ACTOR DELETE
+[2019.09.27-00.46.01:541][191]LogEditorActor: Deleted Actor: DecalActor
+[2019.09.27-00.46.01:574][191]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.09.27-00.46.01:575][191]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2019.09.27-00.46.13:019][810]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-00.46.15:460][916]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Textures/DecalBottom0008_1_masked_S.DecalBottom0008_1_masked_S
+[2019.09.27-00.46.18:662][ 52]LogTexture: Display: Building textures: DecalBottom0008_1_masked_S (AutoDXT, 1024X1024)
+[2019.09.27-00.46.20:558][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/DecalBottom0008_1_masked_S" FILE="C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Content/Textures/DecalBottom0008_1_masked_S.uasset" SILENT=true
+[2019.09.27-00.46.20:593][124]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Saved/DecalBottom0008_1_masked_S4B8A73CB489D1ABB04D2EDB759DAF046.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Content/Textures/DecalBottom0008_1_masked_S.uasset'
+[2019.09.27-00.46.21:652][170]LogSlate: Window 'DecalBottom0008_1_masked_S' being destroyed
+[2019.09.27-00.46.23:417][253]LogEditorViewport: Clicking on Actor (LMB): DecalActor (DecalActor)
+[2019.09.27-00.46.37:559][907]Cmd: SELECT NONE
+[2019.09.27-00.46.44:173][241]LogEditorViewport: Clicking on Actor (LMB): DecalActor (DecalActor)
+[2019.09.27-00.47.07:810][321]Cmd: DELETE
+[2019.09.27-00.47.07:810][321]Cmd: ACTOR DELETE
+[2019.09.27-00.47.07:826][321]LogEditorActor: Deleted Actor: DecalActor
+[2019.09.27-00.47.07:858][321]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2019.09.27-00.47.07:859][321]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2019.09.27-00.47.12:547][542]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-00.47.28:158][265]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.27-00.48.18:047][495]Cmd: DELETE
+[2019.09.27-00.48.18:047][495]Cmd: ACTOR DELETE
+[2019.09.27-00.48.18:063][495]LogEditorActor: Deleted Actor: DecalActor
+[2019.09.27-00.48.18:095][495]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2019.09.27-00.48.18:096][495]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2019.09.27-00.48.47:170][ 10]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2019.09.27-00.49.08:181][111]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.27-00.49.09:470][168]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2019.09.27-00.49.09:478][168]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.27-00.49.09:489][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CabinLevel" FILE="C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Content/Maps/CabinLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.27-00.49.09:519][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.09.27-00.49.10:659][168]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Saved/CabinLevel9BF0E9D14566E2122C0E5AA4A71A634C.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Content/Maps/CabinLevel.umap'
+[2019.09.27-00.49.10:709][168]LogFileHelpers: Saving map 'CabinLevel' took 1.222
+[2019.09.27-00.49.24:198][877]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-00.49.33:304][366]LogEditor: Attempting to add actor of class 'WindDirectionalSource' to level at -3363.39,-6740.98,1220.81
+[2019.09.27-00.49.35:328][441]LogEditor: Attempting to add actor of class 'WindDirectionalSource' to level at 872.47,-1352.34,82.24
+[2019.09.27-00.49.46:012][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-00.49.59:704][570]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-00.50.46:141][664]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-00.51.29:935][724]Cmd: DELETE
+[2019.09.27-00.51.29:936][724]Cmd: ACTOR DELETE
+[2019.09.27-00.51.29:951][724]LogEditorActor: Deleted Actor: WindDirectionalSource
+[2019.09.27-00.51.29:994][724]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2019.09.27-00.51.29:995][724]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2019.09.27-00.51.33:037][885]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-00.53.51:028][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-00.53.51:203][ 50]LogEditor: Attempting to add actor of class 'WindDirectionalSource' to level at -144.47,-670.69,47.84
+[2019.09.27-00.53.52:609][109]LogEditor: Attempting to add actor of class 'WindDirectionalSource' to level at 126.77,-287.46,72.17
+[2019.09.27-00.54.25:102][535]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-00.54.53:737][825]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-00.55.34:261][660]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-00.57.14:567][300]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2019.09.27-00.57.20:240][556]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Fir_07_Forest2)
+[2019.09.27-00.57.27:821][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-00.57.48:888][862]Cmd: DELETE
+[2019.09.27-00.57.48:888][862]Cmd: ACTOR DELETE
+[2019.09.27-00.57.48:906][862]LogEditorActor: Deleted Actor: WindDirectionalSource
+[2019.09.27-00.57.48:954][862]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.09.27-00.57.48:955][862]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2019.09.27-00.57.52:810][ 65]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Fir_07_Forest2)
+[2019.09.27-00.57.59:665][375]Cmd: SELECT NONE
+[2019.09.27-00.58.16:253][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-00.59.43:781][  4]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2019.09.27-01.00.21:783][898]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Environment_Set/Environment/Foliage/Models/SM_grass_bush_simple_01.SM_grass_bush_simple_01
+[2019.09.27-01.00.40:623][744]Job is a success!
+[2019.09.27-01.00.40:946][745]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.141s
+[2019.09.27-01.00.40:946][745]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2019.09.27-01.00.40:946][745]LogVolumetricLightmapImport:      BrickData 1280x15x5 = 3.8Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2019.09.27-01.00.40:946][745]LogVolumetricLightmapImport:      Bricks at Level
+[2019.09.27-01.00.40:946][745]LogVolumetricLightmapImport:          0: 1.2% covering 100.0% of volume
+[2019.09.27-01.00.40:946][745]LogVolumetricLightmapImport:          1: 8.6% covering 10.9% of volume
+[2019.09.27-01.00.40:946][745]LogVolumetricLightmapImport:          2: 90.1% covering 1.8% of volume
+[2019.09.27-01.01.48:291][745]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 4096X2048)
+[2019.09.27-01.01.48:291][745]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 4096X4096)
+[2019.09.27-01.01.48:291][745]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 4096X4096)
+[2019.09.27-01.01.48:291][745]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 4096X2048)
+[2019.09.27-01.01.48:291][745]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 4096X4096)
+[2019.09.27-01.01.48:291][745]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 4096X4096)
+[2019.09.27-01.01.48:291][745]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 4096X2048)
+[2019.09.27-01.01.48:291][745]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 4096X4096)
+[2019.09.27-01.01.48:291][745]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 4096X4096)
+[2019.09.27-01.01.48:291][745]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 4096X2048)
+[2019.09.27-01.01.48:291][745]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 4096X4096)
+[2019.09.27-01.01.48:291][745]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 4096X4096)
+[2019.09.27-01.01.48:291][745]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 4096X2048)
+[2019.09.27-01.01.48:291][745]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 4096X4096)
+[2019.09.27-01.01.48:291][745]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 4096X4096)
+[2019.09.27-01.01.48:291][745]LogTexture: Display: Building textures: SkyOcclusion1_6 (AutoDXT, 4096X2048)
+[2019.09.27-01.01.48:292][745]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 4096X4096)
+[2019.09.27-01.01.48:292][745]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 4096X4096)
+[2019.09.27-01.01.48:292][745]LogTexture: Display: Building textures: SkyOcclusion1_7 (AutoDXT, 4096X2048)
+[2019.09.27-01.01.48:292][745]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 4096X4096)
+[2019.09.27-01.01.48:292][745]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 4096X4096)
+[2019.09.27-01.01.48:292][745]LogTexture: Display: Building textures: SkyOcclusion1_8 (AutoDXT, 2048X1024)
+[2019.09.27-01.01.48:292][745]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 2048X2048)
+[2019.09.27-01.01.48:292][745]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 2048X2048)
+[2019.09.27-01.01.48:292][745]LogTexture: Display: Building textures: SkyOcclusion1_9 (AutoDXT, 2048X1024)
+[2019.09.27-01.01.48:292][745]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 2048X2048)
+[2019.09.27-01.01.48:292][745]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 2048X2048)
+[2019.09.27-01.01.48:292][745]LogTexture: Display: Building textures: SkyOcclusion1_10 (AutoDXT, 2048X1024)
+[2019.09.27-01.01.48:292][745]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 2048X2048)
+[2019.09.27-01.01.48:292][745]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 2048X2048)
+[2019.09.27-01.01.48:292][745]LogTexture: Display: Building textures: SkyOcclusion1_11 (AutoDXT, 2048X1024)
+[2019.09.27-01.01.48:292][745]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 2048X2048)
+[2019.09.27-01.01.48:292][745]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 2048X2048)
+[2019.09.27-01.01.48:292][745]LogTexture: Display: Building textures: SkyOcclusion1_12 (AutoDXT, 2048X1024)
+[2019.09.27-01.01.48:292][745]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 2048X2048)
+[2019.09.27-01.01.48:292][745]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 2048X2048)
+[2019.09.27-01.01.48:292][745]LogTexture: Display: Building textures: SkyOcclusion1_13 (AutoDXT, 1024X512)
+[2019.09.27-01.01.48:292][745]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 1024X1024)
+[2019.09.27-01.01.48:292][745]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 1024X1024)
+[2019.09.27-01.01.48:292][745]LogTexture: Display: Building textures: SkyOcclusion1_14 (AutoDXT, 1024X512)
+[2019.09.27-01.01.48:292][745]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 1024X1024)
+[2019.09.27-01.01.48:292][745]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 1024X1024)
+[2019.09.27-01.01.48:292][745]LogTexture: Display: Building textures: SkyOcclusion1_15 (AutoDXT, 1024X512)
+[2019.09.27-01.01.48:292][745]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 1024X1024)
+[2019.09.27-01.01.48:292][745]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 1024X1024)
+[2019.09.27-01.01.48:292][745]LogTexture: Display: Building textures: SkyOcclusion1_16 (AutoDXT, 1024X512)
+[2019.09.27-01.01.48:292][745]LogTexture: Display: Building textures: HQ_Lightmap1_16 (AutoDXT, 1024X1024)
+[2019.09.27-01.01.48:292][745]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (DXT1, 1024X1024)
+[2019.09.27-01.01.48:292][745]LogTexture: Display: Building textures: SkyOcclusion1_17 (AutoDXT, 128X64)
+[2019.09.27-01.01.48:292][745]LogTexture: Display: Building textures: HQ_Lightmap1_17 (AutoDXT, 128X128)
+[2019.09.27-01.01.48:292][745]LogTexture: Display: Building textures: LQ_Lightmap_1_17 (DXT1, 128X128)
+[2019.09.27-01.01.48:292][745]LogTexture: Display: Building textures: SkyOcclusion1_18 (AutoDXT, 128X64)
+[2019.09.27-01.01.48:292][745]LogTexture: Display: Building textures: HQ_Lightmap1_18 (AutoDXT, 128X128)
+[2019.09.27-01.01.48:293][745]LogTexture: Display: Building textures: LQ_Lightmap_1_18 (DXT1, 128X128)
+[2019.09.27-01.01.48:293][745]LogTexture: Display: Building textures: SkyOcclusion1_19 (AutoDXT, 64X32)
+[2019.09.27-01.01.48:293][745]LogTexture: Display: Building textures: HQ_Lightmap1_19 (AutoDXT, 64X64)
+[2019.09.27-01.01.48:293][745]LogTexture: Display: Building textures: LQ_Lightmap_1_19 (DXT1, 64X64)
+[2019.09.27-01.01.48:418][745]Lightmass on 0NE5IVESE7EN: 1:12:44 hours total, 1.54 sec importing, 4.01 sec setup, 2:17 min photons, 1:10:21 hours processing, 0 ms extra exporting [6933/6933 mappings]. Threads: 8:12:28 hours total, 6:16:51 hours processing.
+[2019.09.27-01.01.48:420][745]LogStaticLightingSystem: CabinLevel_BuiltData storing lightmap data for 663 meshes in 19 LightmapResourceClusters (34.9 Meshes per cluster).
+[2019.09.27-01.01.48:493][745]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2019.09.27-01.01.48:504][745]LogStaticLightingSystem: Illumination: 1:12:57 hours (52.6 sec encoding lightmaps, 4 ms encoding shadowmaps)
+[2019.09.27-01.01.48:504][745]LogStaticLightingSystem: Lightmap texture memory:  362.8 MB (362.8 MB streaming, 0.0 MB non-streaming), 38 textures
+[2019.09.27-01.01.48:504][745]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.09.27-01.01.49:172][745]DumpUnbuiltLightIteractions
+[2019.09.27-01.01.49:172][745]Lights with unbuilt interactions: 0
+[2019.09.27-01.01.49:172][745]
+[2019.09.27-01.01.49:172][745]Primitives with unbuilt interactions: 0
+[2019.09.27-01.01.49:179][745]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.27-01.01.49:315][746]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.09.27-01.01.49:317][746]MapCheck: New page: CabinLevel - Sep 26, 2019, 3:01:49 PM
+[2019.09.27-01.01.49:319][746]MapCheck: Warning: SM_WoodenBarrel_Destroyed_257 Collision enabled but StaticMesh (SM_WoodenBarrel_Destroyed) has no simple or complex collision. 
+[2019.09.27-01.01.49:319][746]MapCheck: Warning: SM_Exo_Crate_Open_Destroyed_260 Collision enabled but StaticMesh (SM_Exo_Crate_Open_Destroyed) has no simple or complex collision. 
+[2019.09.27-01.01.49:320][746]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 5.044ms to complete.
+[2019.09.27-01.01.52:300][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-01.01.52:381][925]LogSlate: Window 'SM_grass_bush_simple_01' being destroyed
+[2019.09.27-01.01.52:387][925]LogSlate: Window 'SM_grass_bush_simple_01' being destroyed
+[2019.09.27-01.01.53:793][  2]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.27-01.01.54:837][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2019.09.27-01.01.54:843][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.27-01.01.54:849][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CabinLevel" FILE="C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Content/Maps/CabinLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.27-01.01.54:876][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.09.27-01.01.55:573][ 62]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Saved/CabinLevelF85A606E49F14551006E358BF56B910C.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Content/Maps/CabinLevel.umap'
+[2019.09.27-01.01.55:601][ 62]LogFileHelpers: Saving map 'CabinLevel' took 0.753
+[2019.09.27-01.01.55:610][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CabinLevel_BuiltData" FILE="C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Content/Maps/CabinLevel_BuiltData.uasset" SILENT=true
+[2019.09.27-01.02.08:382][ 62]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Saved/CabinLevel_BuiltDataA38099874D1A5D32E166DCB4EC53E2B5.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Content/Maps/CabinLevel_BuiltData.uasset'
+[2019.09.27-01.02.14:062][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-01.02.25:470][ 77]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (36.146 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.09.27-01.04.33:125][730]LogSlate: FSceneViewport::OnFocusLost() reason 0
