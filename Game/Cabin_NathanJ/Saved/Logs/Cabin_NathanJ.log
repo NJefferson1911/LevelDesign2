@@ -2578,3 +2578,124 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.09.27-01.17.26:411][ 86]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
 [2019.09.27-01.17.27:048][ 86]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Saved/CabinLevelCB2DBBBA4BE3E47E06E5F0A59155B5EE.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Content/Maps/CabinLevel.umap'
 [2019.09.27-01.17.27:103][ 86]LogFileHelpers: Saving map 'CabinLevel' took 0.869
+[2019.09.27-01.26.49:165][920]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.27-01.27.03:784][318]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.27-01.27.03:798][318]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel.CabinLevel' with GeneratedClass '/Game/Maps/CabinLevel.CabinLevel_C' with ClassGeneratedBy '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel.CabinLevel'
+[2019.09.27-01.27.03:798][318]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.27-01.27.03:798][318]PIE: New page: PIE session: CabinLevel (Sep 26, 2019, 3:27:03 PM)
+[2019.09.27-01.27.03:799][318]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CabinLevel
+[2019.09.27-01.27.03:869][318]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069506s)
+[2019.09.27-01.27.03:870][318]LogAIModule: Creating AISystem for world CabinLevel
+[2019.09.27-01.27.03:870][318]LogPlayLevel: PIE: World Init took: (0.001442s)
+[2019.09.27-01.27.03:870][318]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CabinLevel.CabinLevel to /Game/Maps/UEDPIE_0_CabinLevel.CabinLevel (0.071259s)
+[2019.09.27-01.27.03:918][318]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2019.09.27-01.27.03:926][318]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.09.27-01.27.03:988][318]LogInit: FAudioDevice initialized.
+[2019.09.27-01.27.04:020][318]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.09.27-01.27.04:044][318]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CabinLevel.CabinLevel up for play (max tick rate 60) at 2019.09.26-20.27.04
+[2019.09.27-01.27.04:046][318]LogWorld: Bringing up level for play took: 0.024016
+[2019.09.27-01.27.04:059][318]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CabinLevel -0.347
+[2019.09.27-01.27.04:060][318]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel.CabinLevel' with GeneratedClass '/Game/Maps/CabinLevel.CabinLevel_C' with ClassGeneratedBy '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel.CabinLevel'
+[2019.09.27-01.27.09:973][671]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel.CabinLevel' with GeneratedClass '/Game/Maps/CabinLevel.CabinLevel_C' with ClassGeneratedBy '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel.CabinLevel'
+[2019.09.27-01.27.09:974][671]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-01.27.10:012][671]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.27-01.27.10:012][671]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel.CabinLevel' with GeneratedClass '/Game/Maps/CabinLevel.CabinLevel_C' with ClassGeneratedBy '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel.CabinLevel'
+[2019.09.27-01.27.10:068][671]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-01.27.10:093][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2019.09.27-01.27.10:117][672]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2019.09.27-01.27.11:096][730]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-01.27.11:179][735]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.27-01.27.11:195][735]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel.CabinLevel' with GeneratedClass '/Game/Maps/CabinLevel.CabinLevel_C' with ClassGeneratedBy '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel.CabinLevel'
+[2019.09.27-01.27.11:195][735]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.27-01.27.11:195][735]PIE: New page: PIE session: CabinLevel (Sep 26, 2019, 3:27:11 PM)
+[2019.09.27-01.27.11:195][735]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CabinLevel
+[2019.09.27-01.27.11:263][735]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068151s)
+[2019.09.27-01.27.11:264][735]LogAIModule: Creating AISystem for world CabinLevel
+[2019.09.27-01.27.11:264][735]LogPlayLevel: PIE: World Init took: (0.000979s)
+[2019.09.27-01.27.11:264][735]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CabinLevel.CabinLevel to /Game/Maps/UEDPIE_0_CabinLevel.CabinLevel (0.069510s)
+[2019.09.27-01.27.11:291][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2019.09.27-01.27.11:296][735]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.09.27-01.27.11:361][735]LogInit: FAudioDevice initialized.
+[2019.09.27-01.27.11:394][735]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.09.27-01.27.11:431][735]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CabinLevel.CabinLevel up for play (max tick rate 60) at 2019.09.26-20.27.11
+[2019.09.27-01.27.11:434][735]LogWorld: Bringing up level for play took: 0.037575
+[2019.09.27-01.27.11:449][735]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CabinLevel 1.042
+[2019.09.27-01.27.11:450][735]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel.CabinLevel' with GeneratedClass '/Game/Maps/CabinLevel.CabinLevel_C' with ClassGeneratedBy '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel.CabinLevel'
+[2019.09.27-01.27.23:728][469]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel.CabinLevel' with GeneratedClass '/Game/Maps/CabinLevel.CabinLevel_C' with ClassGeneratedBy '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel.CabinLevel'
+[2019.09.27-01.27.23:728][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-01.27.23:765][469]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.27-01.27.23:765][469]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel.CabinLevel' with GeneratedClass '/Game/Maps/CabinLevel.CabinLevel_C' with ClassGeneratedBy '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel.CabinLevel'
+[2019.09.27-01.27.23:803][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-01.27.23:847][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2019.09.27-01.27.23:870][470]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2019.09.27-01.27.27:639][693]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.09.27-01.27.33:400][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-01.27.33:483][ 35]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.27-01.27.33:499][ 35]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel.CabinLevel' with GeneratedClass '/Game/Maps/CabinLevel.CabinLevel_C' with ClassGeneratedBy '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel.CabinLevel'
+[2019.09.27-01.27.33:499][ 35]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.27-01.27.33:499][ 35]PIE: New page: PIE session: CabinLevel (Sep 26, 2019, 3:27:33 PM)
+[2019.09.27-01.27.33:499][ 35]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CabinLevel
+[2019.09.27-01.27.33:567][ 35]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068302s)
+[2019.09.27-01.27.33:568][ 35]LogAIModule: Creating AISystem for world CabinLevel
+[2019.09.27-01.27.33:568][ 35]LogPlayLevel: PIE: World Init took: (0.000947s)
+[2019.09.27-01.27.33:569][ 35]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CabinLevel.CabinLevel to /Game/Maps/UEDPIE_0_CabinLevel.CabinLevel (0.069526s)
+[2019.09.27-01.27.33:605][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.09.27-01.27.33:610][ 35]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.09.27-01.27.33:675][ 35]LogInit: FAudioDevice initialized.
+[2019.09.27-01.27.33:707][ 35]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.09.27-01.27.33:740][ 35]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CabinLevel.CabinLevel up for play (max tick rate 60) at 2019.09.26-20.27.33
+[2019.09.27-01.27.33:742][ 35]LogWorld: Bringing up level for play took: 0.032780
+[2019.09.27-01.27.33:755][ 35]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CabinLevel -0.652
+[2019.09.27-01.27.33:755][ 35]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel.CabinLevel' with GeneratedClass '/Game/Maps/CabinLevel.CabinLevel_C' with ClassGeneratedBy '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel.CabinLevel'
+[2019.09.27-01.29.29:658][969]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2019.09.27-01.29.53:430][381]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel.CabinLevel' with GeneratedClass '/Game/Maps/CabinLevel.CabinLevel_C' with ClassGeneratedBy '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel.CabinLevel'
+[2019.09.27-01.29.53:431][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-01.29.53:466][381]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.27-01.29.53:466][381]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel.CabinLevel' with GeneratedClass '/Game/Maps/CabinLevel.CabinLevel_C' with ClassGeneratedBy '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel.CabinLevel'
+[2019.09.27-01.29.53:509][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-01.29.53:569][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2019.09.27-01.29.53:590][382]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2019.09.27-01.29.54:393][429]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Exo_Crate_Open_Intact8)
+[2019.09.27-01.29.55:757][508]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-01.29.55:823][512]Cmd: MODE ROTGRID=1
+[2019.09.27-01.30.00:550][794]Cmd: SELECT NONE
+[2019.09.27-01.30.01:701][863]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-01.30.01:767][867]Cmd: MODE ROTGRID=0
+[2019.09.27-01.30.12:236][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-01.30.40:564][185]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-01.31.05:063][651]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-01.33.35:947][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2019.09.27-01.33.36:624][696]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Saved/CabinLevel_Auto5EC30888646CB0A2E6561E99D6B0DF625.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Saved/Autosaves/Game/Maps/CabinLevel_Auto5.umap'
+[2019.09.27-01.33.36:628][696]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/CabinLevel' took 0.715
+[2019.09.27-01.33.36:628][696]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.715
+[2019.09.27-01.34.47:338][935]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-01.34.47:404][939]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.27-01.34.47:419][939]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel.CabinLevel' with GeneratedClass '/Game/Maps/CabinLevel.CabinLevel_C' with ClassGeneratedBy '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel.CabinLevel'
+[2019.09.27-01.34.47:419][939]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.27-01.34.47:419][939]PIE: New page: PIE session: CabinLevel (Sep 26, 2019, 3:34:47 PM)
+[2019.09.27-01.34.47:419][939]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CabinLevel
+[2019.09.27-01.34.47:496][939]LogPlayLevel: PIE: StaticDuplicateObject took: (0.076590s)
+[2019.09.27-01.34.47:497][939]LogAIModule: Creating AISystem for world CabinLevel
+[2019.09.27-01.34.47:498][939]LogPlayLevel: PIE: World Init took: (0.001364s)
+[2019.09.27-01.34.47:498][939]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CabinLevel.CabinLevel to /Game/Maps/UEDPIE_0_CabinLevel.CabinLevel (0.078411s)
+[2019.09.27-01.34.47:541][939]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2019.09.27-01.34.47:545][939]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.09.27-01.34.47:612][939]LogInit: FAudioDevice initialized.
+[2019.09.27-01.34.47:643][939]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.09.27-01.34.47:661][939]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CabinLevel.CabinLevel up for play (max tick rate 60) at 2019.09.26-20.34.47
+[2019.09.27-01.34.47:663][939]LogWorld: Bringing up level for play took: 0.018713
+[2019.09.27-01.34.47:676][939]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CabinLevel -0.731
+[2019.09.27-01.34.47:676][939]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel.CabinLevel' with GeneratedClass '/Game/Maps/CabinLevel.CabinLevel_C' with ClassGeneratedBy '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel.CabinLevel'
+[2019.09.27-01.34.56:102][443]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel.CabinLevel' with GeneratedClass '/Game/Maps/CabinLevel.CabinLevel_C' with ClassGeneratedBy '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel.CabinLevel'
+[2019.09.27-01.34.56:102][443]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-01.34.56:141][443]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.27-01.34.56:141][443]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel.CabinLevel' with GeneratedClass '/Game/Maps/CabinLevel.CabinLevel_C' with ClassGeneratedBy '/Game/Maps/CabinLevel.CabinLevel:PersistentLevel.CabinLevel'
+[2019.09.27-01.34.56:176][443]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-01.34.56:210][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.09.27-01.34.56:234][444]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2019.09.27-01.35.16:731][613]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.27-01.35.31:937][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2019.09.27-01.35.31:950][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CabinLevel" FILE="C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Content/Maps/CabinLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.27-01.35.31:975][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.09.27-01.35.32:724][509]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Saved/CabinLevelEB0654A141E9CA8C3C8BA8A92C08239F.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Content/Maps/CabinLevel.umap'
+[2019.09.27-01.35.32:753][509]LogFileHelpers: Saving map 'CabinLevel' took 0.803
