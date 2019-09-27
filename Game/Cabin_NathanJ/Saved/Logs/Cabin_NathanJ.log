@@ -2207,3 +2207,34 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.09.27-01.02.14:062][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.09.27-01.02.25:470][ 77]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (36.146 sec). This should never happen. Something is wrong with the timer delegate!
 [2019.09.27-01.04.33:125][730]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-01.05.20:412][380]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/CabinLevel.CabinLevel
+[2019.09.27-01.05.20:449][380]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.09.27-01.05.22:962][380]LogSlate: Window 'Save Content' being destroyed
+[2019.09.27-01.05.22:972][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CabinLevel" FILE="C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Content/Maps/CabinLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.27-01.05.23:005][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.09.27-01.05.23:757][380]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Saved/CabinLevel72C9AD9B49395718984B23965305783E.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Content/Maps/CabinLevel.umap'
+[2019.09.27-01.05.23:790][380]LogFileHelpers: Saving map 'CabinLevel' took 0.819
+[2019.09.27-01.05.23:795][380]Cmd: MAP LOAD FILE="C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Content/Maps/CabinLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.27-01.05.23:795][380]LightingResults: New page: Lighting Build
+[2019.09.27-01.05.23:795][380]LoadErrors: New page: Loading map: CabinLevel.umap
+[2019.09.27-01.05.23:808][380]MapCheck: New page: Map Check
+[2019.09.27-01.05.23:808][380]LightingResults: New page: Lighting Build
+[2019.09.27-01.05.24:009][380]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2019.09.27-01.05.27:417][380]LogAIModule: Creating AISystem for world CabinLevel
+[2019.09.27-01.05.28:027][380]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.27-01.05.28:055][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2019.09.27-01.05.28:081][380]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.27-01.05.28:081][380]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.232ms to complete.
+[2019.09.27-01.05.28:083][380]LogFileHelpers: Loading map 'CabinLevel' took 4.291
+[2019.09.27-01.06.05:515][616]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.27-01.06.06:228][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2019.09.27-01.06.06:236][657]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.27-01.06.06:241][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CabinLevel" FILE="C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Content/Maps/CabinLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.27-01.06.06:268][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.09.27-01.06.07:023][657]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Saved/CabinLevelA4E52E814C70478128B8B48538563490.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Content/Maps/CabinLevel.umap'
+[2019.09.27-01.06.07:060][657]LogFileHelpers: Saving map 'CabinLevel' took 0.819
+[2019.09.27-01.06.09:170][782]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-01.06.11:197][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CabinLevel" FILE="C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Content/Maps/CabinLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.27-01.06.11:225][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2019.09.27-01.06.11:971][901]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Saved/CabinLevelB54693284F8AB235E7FC49912BC1FF4C.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Content/Maps/CabinLevel.umap'
+[2019.09.27-01.06.12:025][901]LogFileHelpers: Saving map 'CabinLevel' took 0.829
