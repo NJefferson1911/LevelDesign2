@@ -591,3 +591,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.01-23.07.10:538][312]Cmd: MAP CHECKDEP NOCLEARLOG
 [2019.10.01-23.07.10:538][312]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.168ms to complete.
 [2019.10.01-23.07.10:539][312]LogFileHelpers: Loading map 'CabinLevel' took 0.512
+[2019.10.01-23.09.23:403][717]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.01-23.09.23:867][744]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.01-23.09.24:401][774]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.01-23.10.54:804][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2019.10.01-23.10.54:811][191]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.01-23.10.54:819][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CabinLevel" FILE="C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Content/Maps/CabinLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.01-23.10.54:847][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.10.01-23.10.55:460][191]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Saved/CabinLevel1EEF535B40D25CC5A5BF6EB4EAB6AAA1.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Content/Maps/CabinLevel.umap'
+[2019.10.01-23.10.55:518][191]LogFileHelpers: Saving map 'CabinLevel' took 0.699
+[2019.10.01-23.11.11:446][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
