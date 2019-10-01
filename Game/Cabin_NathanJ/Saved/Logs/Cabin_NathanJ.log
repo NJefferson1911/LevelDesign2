@@ -2748,3 +2748,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.01-23.50.33:388][785]UATHelper: Packaging (Windows (64-bit)): ********** ARCHIVE COMMAND COMPLETED **********
 [2019.10.01-23.50.33:389][785]UATHelper: Packaging (Windows (64-bit)): BUILD SUCCESSFUL
 [2019.10.01-23.50.33:397][786]UATHelper: Packaging (Windows (64-bit)): AutomationTool exiting with ExitCode=0 (Success)
+[2019.10.01-23.52.51:539][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2019.10.01-23.52.51:551][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CabinLevel" FILE="C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Content/Maps/CabinLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.01-23.52.51:578][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2019.10.01-23.52.52:245][792]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Saved/CabinLevelD13602C248D5EB35B4844AB0C6775DF1.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Content/Maps/CabinLevel.umap'
+[2019.10.01-23.52.52:282][792]LogFileHelpers: Saving map 'CabinLevel' took 0.731
+[2019.10.01-23.52.57:044][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2019.10.01-23.53.00:018][352]LogSlate: Window 'Save Content' being destroyed
+[2019.10.01-23.53.14:341][400]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.10.01-23.55.56:142][208]LogSlate: Window 'Project Settings' being destroyed
