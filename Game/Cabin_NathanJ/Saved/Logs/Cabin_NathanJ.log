@@ -4775,3 +4775,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.01-23.57.28:433][824]UATHelper: Packaging (Windows (64-bit)): ********** ARCHIVE COMMAND COMPLETED **********
 [2019.10.01-23.57.28:433][824]UATHelper: Packaging (Windows (64-bit)): BUILD SUCCESSFUL
 [2019.10.01-23.57.28:433][824]UATHelper: Packaging (Windows (64-bit)): AutomationTool exiting with ExitCode=0 (Success)
+[2019.10.02-00.06.31:683][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.10.02-00.06.32:349][553]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Saved/CabinLevel_Auto172AEAAF34EFC7D975CA243B8E2649C55.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Saved/Autosaves/Game/Maps/CabinLevel_Auto1.umap'
+[2019.10.02-00.06.32:359][553]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/CabinLevel' took 0.718
+[2019.10.02-00.06.32:359][553]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.718
