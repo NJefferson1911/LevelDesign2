@@ -4779,3 +4779,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.02-00.06.32:349][553]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Saved/CabinLevel_Auto172AEAAF34EFC7D975CA243B8E2649C55.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Saved/Autosaves/Game/Maps/CabinLevel_Auto1.umap'
 [2019.10.02-00.06.32:359][553]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/CabinLevel' took 0.718
 [2019.10.02-00.06.32:359][553]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.718
+[2019.10.02-00.16.32:773][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2019.10.02-00.16.33:805][661]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Saved/CabinLevel_Auto2FBA95FAA4A1AE2A434179FA07B8A828A.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/LevelDesign2/Game/Cabin_NathanJ/Saved/Autosaves/Game/Maps/CabinLevel_Auto2.umap'
+[2019.10.02-00.16.33:810][661]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/CabinLevel' took 1.078
+[2019.10.02-00.16.33:810][661]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.078
